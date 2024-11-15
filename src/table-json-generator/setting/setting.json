@@ -1,0 +1,41 @@
+{
+  "startPosition": {
+    "x": 16,
+    "y": 75.1
+  },
+  "tableBodyHeight": 199.9,
+  "rowCount": 30,
+  "fontSize": 9,
+  "columnSettings": [
+    {
+      "order": 1,
+      "name": "agent_code",
+      "width": 34,
+      "alignment": "left"
+    },
+    {
+      "order": 2,
+      "name": "apply_type",
+      "width": 20,
+      "alignment": "left"
+    },
+    {
+      "order": 3,
+      "name": "apartment_name",
+      "width": 70,
+      "alignment": "left"
+    },
+    {
+      "order": 4,
+      "name": "measure_detail",
+      "width": 34,
+      "alignment": "left"
+    },
+    {
+      "order": 5,
+      "name": "count",
+      "width": 20,
+      "alignment": "right"
+    }
+  ]
+}
